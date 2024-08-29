@@ -8,7 +8,7 @@ Class: Computer Programming
 
 Robert Riddle
 
-Email: newvehasr.riddle@gmail.com
+Email: newvegasr.riddle@gmail.com
 
 
 ### <h3> Reasons for why this repository exists
