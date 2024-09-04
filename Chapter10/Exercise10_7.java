@@ -2,7 +2,9 @@
 Name: Robert Riddle
 Date: 09/03/2024
 
-This program 
+This program is designed to act like an ATM machine that uses the Account class previously.
+made for the account test. This program allows you to check your balance, deposit, or withdraw.
+an amount. The program will restart after you exit it using the exit prompt.
 
  */
 
